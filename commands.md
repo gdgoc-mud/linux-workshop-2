@@ -1,64 +1,10 @@
 # VIRTUAL MACHINES SSH COMMANDS
 ```
 # 1
-ssh ubuntu@ozone-hang-harold-fleet.trycloudflare.com
+ssh ubuntu@territories-noon-excellent-sociology.trycloudflare.com
 
-# 2 
-ssh ubuntu@compile-postcard-lodge-computed.trycloudflare.com
-
-# 3
-ssh ubuntu@higher-walnut-item-received.trycloudflare.com
-
-# 4
-ssh ubuntu@trailer-specializing-travesti-cam.trycloudflare.com
-
-# 5
-ssh ubuntu@drop-stay-defines-cal.trycloudflare.com
-
-# 6
-ssh ubuntu@diana-really-saving-jun.trycloudflare.com
-
-# 7
-ssh ubuntu@referral-create-offices-growth.trycloudflare.com
-
-# 8
-ssh ubuntu@dan-subaru-awareness-starsmerchant.trycloudflare.com
-
-# 9
-ssh ubuntu@isp-helicopter-assistance-pond.trycloudflare.com
-
-# 10
-ssh ubuntu@this-felt-downloading-carries.trycloudflare.com
-
-# 11
-ssh ubuntu@oakland-diversity-fcc-bag.trycloudflare.com
-
-# 12
-ssh ubuntu@database-sheep-collector-trance.trycloudflare.com
-
-# 13
-ssh ubuntu@zope-jennifer-executive-slow.trycloudflare.com
-
-# 14
-ssh ubuntu@discounts-fridge-assignment-him.trycloudflare.com
-
-# 15
-ssh ubuntu@fuzzy-locations-backup-cycles.trycloudflare.com
-
-# 16
-ssh ubuntu@rosa-medical-toronto-cayman.trycloudflare.com
-
-# 17
-ssh ubuntu@postage-safer-firewall-bizarre.trycloudflare.com
-
-# 18
-ssh ubuntu@device-suits-effects-screenshots.trycloudflare.com
-
-# 19
-ssh ubuntu@metropolitan-picks-isle-opponent.trycloudflare.com
-
-# 20
-ssh ubuntu@provinces-updates-valentine-angel.trycloudflare.com
+- When prompted for fingerprint hit "yes"
+- password: tomato
 ```
 
 # HOW DATA TRAVELS
