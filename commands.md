@@ -1,3 +1,27 @@
+# VIRTUAL MACHINES SSH COMMANDS
+```
+ssh ubuntu@ozone-hang-harold-fleet.trycloudflare.com
+ssh ubuntu@compile-postcard-lodge-computed.trycloudflare.com
+ssh ubuntu@higher-walnut-item-received.trycloudflare.com
+ssh ubuntu@trailer-specializing-travesti-cam.trycloudflare.com
+ssh ubuntu@drop-stay-defines-cal.trycloudflare.com
+ssh ubuntu@diana-really-saving-jun.trycloudflare.com
+ssh ubuntu@referral-create-offices-growth.trycloudflare.com
+ssh ubuntu@dan-subaru-awareness-starsmerchant.trycloudflare.com
+ssh ubuntu@isp-helicopter-assistance-pond.trycloudflare.com
+ssh ubuntu@this-felt-downloading-carries.trycloudflare.com
+ssh ubuntu@oakland-diversity-fcc-bag.trycloudflare.com
+ssh ubuntu@database-sheep-collector-trance.trycloudflare.com
+ssh ubuntu@zope-jennifer-executive-slow.trycloudflare.com
+ssh ubuntu@discounts-fridge-assignment-him.trycloudflare.com
+ssh ubuntu@fuzzy-locations-backup-cycles.trycloudflare.com
+ssh ubuntu@rosa-medical-toronto-cayman.trycloudflare.com
+ssh ubuntu@postage-safer-firewall-bizarre.trycloudflare.com
+ssh ubuntu@device-suits-effects-screenshots.trycloudflare.com
+ssh ubuntu@metropolitan-picks-isle-opponent.trycloudflare.com
+ssh ubuntu@provinces-updates-valentine-angel.trycloudflare.com
+```
+
 # RECONNAISSANCE - FIND YOUR NETWORK
 ```
 ifconfig # Show network interfaces
