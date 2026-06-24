@@ -61,6 +61,76 @@ ssh ubuntu@metropolitan-picks-isle-opponent.trycloudflare.com
 ssh ubuntu@provinces-updates-valentine-angel.trycloudflare.com
 ```
 
+# HOW DATA TRAVELS
+```
+sudo tcpdump -i any # Capture and display network traffic
+netstat -s # Show network statistics
+route -n # View routing table
+```
+
+# IP ADDRESSES
+```
+ifconfig #this or below(I prefer this)
+ip a # Show IP and MAC addresses
+hostname -I # Show your IP address
+nslookup google.com # Translate domain to IP see if network is set
+curl ifconfig.me # Get your public IP
+```
+
+# ROUTING
+```
+traceroute google.com # Show each hop packets take
+ping google.com # Test if host is reachable
+ip route show # View routing table
+```
+
+# KEY PROTOCOLS
+```
+ssh student@10.163.217.123 # SSH to a VM 
+scp file.txt user@host:/path/ # Copy file to remote server
+ss -tuln # List all open ports
+netstat -tuln # Show listening ports and connections
+```
+
+# PORTS & FIREWALLS
+```
+ss -tuln # Show all open ports
+sudo ufw status # Check firewall status
+sudo ufw allow 22 # Allow SSH port
+sudo ufw deny 23 # Block Telnet port
+sudo ufw enable # Turn on firewall
+```
+
+# MAC ADDRESSES & SERVER-CLIENT MODEL
+```
+ip link show # Show MAC addresses
+arp -a # Show IP to MAC mappings
+ssh-keygen -t rsa -b 4096 # Generate SSH key pair
+ssh-copy-id user@host # Copy SSH key to server
+```
+
+# ENCRYPTION
+```
+gpg --encrypt --recipient user@email.com file.txt # Encrypt with public key
+gpg --decrypt file.txt.gpg # Decrypt file
+openssl enc -aes-256-cbc -salt -in file.txt -out file.enc # Encrypt with AES
+openssl enc -d -aes-256-cbc -in file.enc -out file.txt # Decrypt AES file
+```
+
+# QUANTUM COMPUTING
+```
+openssl list-cipher-algorithms # List encryption algorithms
+```
+
+# SECURING PATHWAYS
+```
+sudo -i # Switch to root user
+sudo -l # List sudo permissions
+passwd # Change your password
+find / -perm -4000 2>/dev/null # Find SUID binaries
+sudo /bin/cat /root/flag3.txt # Read root flag with sudo
+```
+
 # RECONNAISSANCE - FIND YOUR NETWORK
 ```
 ifconfig # Show network interfaces
